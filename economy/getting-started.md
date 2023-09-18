@@ -1,3 +1,7 @@
+---
+description: This page allows you to get started with the economy system in Koala Park.
+---
+
 # 💡 Getting Started
 
 ## How does the economy in Koala Park work?
