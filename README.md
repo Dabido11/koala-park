@@ -1,7 +1,3 @@
----
-description: The homepage for the Discord server, Koala Park.
----
-
 # 🏡 Home
 
 Koala Park is an upcoming Discord server that is meant to bring communities together. We have a wide array of features that can help connect many certain groups to help co-exist and create one big community in one server.
