@@ -10,5 +10,6 @@
 ## 💸 Economy
 
 * [💡 Mimu Credits](economy/mimu-credits.md)
+* [Page](economy/page.md)
 * [💸 Earning Money Through Events](economy/earning-money-through-events.md)
 * [📞 Giving Items to Users](economy/giving-items-to-users.md)
