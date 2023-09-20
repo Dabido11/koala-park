@@ -10,3 +10,4 @@
 ## 💸 Economy
 
 * [💡 Mimu Credits](economy/mimu-credits.md)
+* [🌳 Park Credits](economy/park-credits.md)
