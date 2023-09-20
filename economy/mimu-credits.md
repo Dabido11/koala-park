@@ -1,8 +1,8 @@
 ---
-description: This page allows you to get started with the economy system in Koala Park.
+description: The soon-deprecated economy system for Koala Park.
 ---
 
-# 💡 Getting Started
+# 💡 Mimu Credits
 
 ## How does the economy in Koala Park work?
 
@@ -21,3 +21,17 @@ As you chat in the channels, you earn money to buy items in the shop. Some items
 <figure><img src="https://i.imgur.com/9kZ7ZsA.png" alt="" width="375"><figcaption><p>You can cycle through shop pages with the buttons below</p></figcaption></figure>
 
 To buy these items, you can type `/shop buy` to buy the certain item you want to buy. Some items may be marked as emojis, so they will have a large string of text and numbers. Completely ignore the string and just buy it, as it will show up as the emoji when you view your balance.
+
+### Giving Items to Users
+
+Some shop items may only have a limited stock. In this case, the only way to get it is to ask a user to give it to you. Sometimes, it may not be that easy.
+
+A user may ask you to give currency for you to receive the item. Please be vigilant and only take the trade with the user if you trust them. If they do so, please report them so our moderators can sort the problem and revert the changes. You **will get punished** if you try to scam a user on the server.
+
+_**💡 To give an item, type**** ****`/give item`****. To give currency, type**** ****`/give currency`****. Prompts will appear to complete the slash command.**_
+
+### Earning Money Through Events
+
+Sometimes, the server may host events. The events will usually give coins in exchange for participation in the event. The minimum reward for an event is **100 coins.**
+
+Don’t get this confused with Mimu events. Mimu events are embeds that allow you to claim a certain amount of coins once for absolutely free!
