@@ -17,10 +17,4 @@ description: Provided here are the rules for Koala Park.
 
 ## Punishments
 
-Other than simple time-outs or kicks when deemed necessary, we will not hesitate to use moderated actions that are high in level. Let's outline what can happen when you break these rules. The levels of punishment lower by one level at every **Sunday 12am AEST**. (Yes, this is similar to Valve's CS:GO competitive bans and punishments.)
-
-* **Level 1**. Simple punishments will result in a timeout spanning about 60s - 10m.
-* **Level 2**. If rules are broken repeatedly, you may be issued a kick or a timeout spanning 11m - 6d depending on the severity.
-* **Level 3**. If the infractions continue, you are timed out for 7 days - 28 days.
-* **Level 4.** This level can only be applied by the Mayor or administrators (without the Mastermind role). You will be timed out for more than a month.
-* **Level 5**. You will be blacklisted from this server and have a permanent ban.
+The punishment system is currently being worked on. If you deem yourself to be unfairly punished, appeal here: [https://forms.gle/F1bC2ndDmVvkHWsx6](https://forms.gle/F1bC2ndDmVvkHWsx6).
